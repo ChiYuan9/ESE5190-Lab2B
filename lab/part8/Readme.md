@@ -34,6 +34,7 @@ int pio_i2c_write_blocking(PIO pio, uint sm, uint8_t addr, uint8_t *txbuf, uint 
 Changed the 'pio_i2c_write_blocking' function
 
 ### APDS9960
+https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part8/APDS9960.c
 Add 'APDS9960_init', 'read_proximity' and 'read_rgbc' function to initialize sensor, read proximity data from sensor and read brightness data from sensor.
 
 ## Pictures
