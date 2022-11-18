@@ -39,6 +39,6 @@ Add 'APDS9960_init', 'read_proximity' and 'read_rgbc' function to initialize sen
 
 ## Pictures
 ![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part8/part8_far.png)
-![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part8/part8_close.png)
-Proximity = 1 means something is close to sensor.
-Proximity = 0 means nothing is close to sensor.
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part8/part8_close.png)<br>
+Proximity = 1 means something is close to sensor.<br>
+Proximity = 0 means nothing is close to sensor.<br>
