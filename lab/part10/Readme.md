@@ -20,10 +20,10 @@ This is the Breadboard for the pinout.
 ## Soldering Process
 
 Now we gonna solder it on the prototype board, During the process:
-![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_soldering.png)
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_soldering.gif)
 
 ## Show case
 
 Now it is the Final showcase with prototype board, The passowrd is "ese519", if correctlly entered green led light on. Otherwise RED ON.
 
-![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_function.png)
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_function.gif)
