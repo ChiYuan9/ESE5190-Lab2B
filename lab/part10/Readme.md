@@ -15,14 +15,15 @@ leds and resistors, breadboard and wires.
 
 We make first line for Green LED, Green LED in series with a signal and resistor, we can control the signal according to the user input. Also for Red LED we have it in series with another signal and resistor. If the user entered right passwors, we give the power to the signal in series with Green Led, other wise we give power to the signal in series with Red Led. 
 This is the Breadboard for the pinout.
-
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10.png)
 
 ## Soldering Process
 
 Now we gonna solder it on the prototype board, During the process:
-
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_soldering.png)
 
 ## Show case
 
 Now it is the Final showcase with prototype board, The passowrd is "ese519", if correctlly entered green led light on. Otherwise RED ON.
 
+![image](https://github.com/ChiYuan9/ESE5190-Lab2B/blob/main/lab/part10/part10_function.png)
